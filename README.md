@@ -1,9 +1,20 @@
-### Hey! Nice to see you 👋
-<hr>
+<h1>Hey! Nice to see you 👋</h1>
 
 Welcome to my page!
 
 I am Kristiyan Radoslavov. I am currently stydying at SoftUni.
+
+The main courses I have already passed are:
+
+<ul>
+    <li>Python Fundamentals</li>
+    <li>Python Advanced</li>
+    <li>Python OOP</li>
+    <li>HTML & CSS</li>
+    <li> JavaScript(ongoing)</li>
+</ul>
+
+Apart from the programing my field of work at the moment is in Risk & Payments in the gambling industry.
 
 ### Where to find me
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kristiqn.radoslavov/)
