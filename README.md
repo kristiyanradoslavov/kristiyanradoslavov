@@ -11,7 +11,7 @@ The main courses I have already passed are:
     <li>Python Advanced</li>
     <li>Python OOP</li>
     <li>HTML & CSS</li>
-    <li> JavaScript(ongoing)</li>
+    <li>JavaScript</li>
 </ul>
 
 <h2>Skills</h2>
