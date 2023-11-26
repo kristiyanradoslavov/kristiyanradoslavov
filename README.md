@@ -1,5 +1,3 @@
-<h1>Hey! Nice to see you 👋</h1>
-
 Welcome to my page!
 
 I am Kristiyan Radoslavov. I am currently stydying at SoftUni.
